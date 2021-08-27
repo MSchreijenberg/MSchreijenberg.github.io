@@ -151,3 +151,5 @@ function reveal(){
         }
     }
 }
+
+//credit for scrol reveal: https://www.youtube.com/watch?v=VplDlwLTR50&t=541s
